@@ -11,7 +11,11 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
+<<<<<<< HEAD
 import math
+=======
+
+>>>>>>> 7608fd2f4d94da3474bef373d2cd629dfe5604c3
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
